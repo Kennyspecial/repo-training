@@ -1,3 +1,3 @@
 # demo
 
-amature training
+amature training;
